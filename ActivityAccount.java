@@ -83,9 +83,7 @@ public class ActivityAccount extends Activity implements PopupMenu.OnMenuItemCli
     AdapterAccount adapterAccount;
 
     Dialog dialogUpdateCategory;
-
-
-    RelativeLayout rl_TopHeader;
+ RelativeLayout rl_TopHeader;
 
     FloatingActionButton fab;
     AdView adView;
